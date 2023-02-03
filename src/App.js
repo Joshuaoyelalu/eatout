@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-
+import { cta, snacks, navbar, food, drinks } from './Component';
 function App() {
   return (
     <div className="App">
